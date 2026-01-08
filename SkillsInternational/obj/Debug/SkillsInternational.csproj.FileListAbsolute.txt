@@ -1,0 +1,11 @@
+D:\My Projects\Other Projects\SkillsInternational\SkillsInternational\bin\Debug\SkillsInternational.exe.config
+D:\My Projects\Other Projects\SkillsInternational\SkillsInternational\bin\Debug\SkillsInternational.exe
+D:\My Projects\Other Projects\SkillsInternational\SkillsInternational\bin\Debug\SkillsInternational.pdb
+D:\My Projects\Other Projects\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.csproj.AssemblyReference.cache
+D:\My Projects\Other Projects\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.LoginForm.resources
+D:\My Projects\Other Projects\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.Properties.Resources.resources
+D:\My Projects\Other Projects\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.RegistrationForm.resources
+D:\My Projects\Other Projects\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.csproj.GenerateResource.cache
+D:\My Projects\Other Projects\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.csproj.CoreCompileInputs.cache
+D:\My Projects\Other Projects\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.exe
+D:\My Projects\Other Projects\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.pdb
