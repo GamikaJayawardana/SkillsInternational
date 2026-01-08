@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "D:\\My Projects\\Other Projects\\SkillsInternational\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C7EEFAC-CB57-4300-8A89-2595E951DB74}|SkillsInternational\\SkillsInternational.csproj|d:\\my projects\\other projects\\skillsinternational\\skillsinternational\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7EEFAC-CB57-4300-8A89-2595E951DB74}|SkillsInternational\\SkillsInternational.csproj|solutionrelative:skillsinternational\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C7EEFAC-CB57-4300-8A89-2595E951DB74}|SkillsInternational\\SkillsInternational.csproj|D:\\My Projects\\Other Projects\\SkillsInternational\\skillsinternational\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8C7EEFAC-CB57-4300-8A89-2595E951DB74}|SkillsInternational\\SkillsInternational.csproj|solutionrelative:skillsinternational\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C7EEFAC-CB57-4300-8A89-2595E951DB74}|SkillsInternational\\SkillsInternational.csproj|d:\\my projects\\other projects\\skillsinternational\\skillsinternational\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C7EEFAC-CB57-4300-8A89-2595E951DB74}|SkillsInternational\\SkillsInternational.csproj|solutionrelative:skillsinternational\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C7EEFAC-CB57-4300-8A89-2595E951DB74}|SkillsInternational\\SkillsInternational.csproj|d:\\my projects\\other projects\\skillsinternational\\skillsinternational\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8C7EEFAC-CB57-4300-8A89-2595E951DB74}|SkillsInternational\\SkillsInternational.csproj|solutionrelative:skillsinternational\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C7EEFAC-CB57-4300-8A89-2595E951DB74}|SkillsInternational\\SkillsInternational.csproj|D:\\My Projects\\Other Projects\\SkillsInternational\\skillsinternational\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7EEFAC-CB57-4300-8A89-2595E951DB74}|SkillsInternational\\SkillsInternational.csproj|solutionrelative:skillsinternational\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +22,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "D:\\My Projects\\Other Projects\\SkillsInternational\\SkillsInternational\\LoginForm.cs",
               "RelativeDocumentMoniker": "SkillsInternational\\LoginForm.cs",
@@ -48,55 +32,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T20:03:02.782Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegistrationForm.cs [Design]",
-              "DocumentMoniker": "D:\\My Projects\\Other Projects\\SkillsInternational\\SkillsInternational\\RegistrationForm.cs",
-              "RelativeDocumentMoniker": "SkillsInternational\\RegistrationForm.cs",
-              "ToolTip": "D:\\My Projects\\Other Projects\\SkillsInternational\\SkillsInternational\\RegistrationForm.cs [Design]",
-              "RelativeToolTip": "SkillsInternational\\RegistrationForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T17:23:55.905Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegistrationForm.cs",
-              "DocumentMoniker": "D:\\My Projects\\Other Projects\\SkillsInternational\\SkillsInternational\\RegistrationForm.cs",
-              "RelativeDocumentMoniker": "SkillsInternational\\RegistrationForm.cs",
-              "ToolTip": "D:\\My Projects\\Other Projects\\SkillsInternational\\SkillsInternational\\RegistrationForm.cs",
-              "RelativeToolTip": "SkillsInternational\\RegistrationForm.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAcwL8AAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T19:42:33.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\My Projects\\Other Projects\\SkillsInternational\\SkillsInternational\\Program.cs",
-              "RelativeDocumentMoniker": "SkillsInternational\\Program.cs",
-              "ToolTip": "D:\\My Projects\\Other Projects\\SkillsInternational\\SkillsInternational\\Program.cs",
-              "RelativeToolTip": "SkillsInternational\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T17:23:19.583Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "D:\\My Projects\\Other Projects\\SkillsInternational\\SkillsInternational\\LoginForm.cs",
-              "RelativeDocumentMoniker": "SkillsInternational\\LoginForm.cs",
-              "ToolTip": "D:\\My Projects\\Other Projects\\SkillsInternational\\SkillsInternational\\LoginForm.cs [Design]",
-              "RelativeToolTip": "SkillsInternational\\LoginForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T17:23:17.307Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

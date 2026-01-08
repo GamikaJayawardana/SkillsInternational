@@ -60,7 +60,7 @@ namespace SkillsInternational
                 string query = "INSERT INTO Registration VALUES (@regNo, @firstName, @lastName, @dob, @gender, @address, @email, @mobile, @home, @parent, @nic, @contact)";
 
                 SqlCommand cmd = new SqlCommand(query, con);
-                cmd.Parameters.AddWithValue("@regNo", int.Parse(cmbRegNo.Text)); // Assuming user types a new ID
+                cmd.Parameters.AddWithValue("@regNo", int.Parse(cmbRegNo.Text)); 
                 cmd.Parameters.AddWithValue("@firstName", txtFirstName.Text);
                 cmd.Parameters.AddWithValue("@lastName", txtLastName.Text);
                 cmd.Parameters.AddWithValue("@dob", dtpDOB.Value);
@@ -78,7 +78,7 @@ namespace SkillsInternational
                 con.Close();
 
                 MessageBox.Show("Record Added Successfully", "Register Student", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                LoadRegNos(); // Refresh the list
+                LoadRegNos(); 
             }
             catch (Exception ex)
             {
